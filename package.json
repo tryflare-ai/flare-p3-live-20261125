@@ -1,8 +1,0 @@
-{
-  "name": "flare-p4-inert-verification",
-  "private": true,
-  "description": "Synthetic dependency alert fixture. Never install or execute.",
-  "dependencies": {
-    "lodash": "4.17.19"
-  }
-}

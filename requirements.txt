@@ -1,2 +1,0 @@
-# Synthetic P4 alert fixture; never install or execute.
-PyYAML==5.3.1
