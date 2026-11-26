@@ -1,0 +1,2 @@
+# Synthetic P4 Dependabot fixture; do not install or execute.
+requests==2.19.1
