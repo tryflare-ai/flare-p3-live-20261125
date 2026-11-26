@@ -1,2 +1,0 @@
-# Inert approved lifecycle fixture; never install or execute.
-PyYAML==5.3.1
