@@ -1,3 +1,0 @@
-# INERT TEST MATERIAL. Never issued by AWS; not a usable credential.
-AWS_ACCESS_KEY_ID=AKIAFLAREP4TESTXXXXX
-AWS_SECRET_ACCESS_KEY=FlareP4SyntheticSecretForTestingOnly0000
