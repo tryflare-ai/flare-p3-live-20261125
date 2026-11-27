@@ -1,2 +1,0 @@
-# Inert approved lifecycle fixture; never install or execute.
-requests==2.19.1
